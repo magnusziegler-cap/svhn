@@ -1,0 +1,1 @@
+this folder should be used with the .mat files from the SVHN website
