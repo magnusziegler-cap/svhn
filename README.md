@@ -1,7 +1,5 @@
 #SVHN
 
-### magnus.c.ziegler@gmail.com
-
 ## Challenge
 > 1. Write your own solution to the problem "Street View House Numbers" under Format 2 (http://ufldl.stanford.edu/housenumbers/). Make sure to validate your model.
 > 2. Write a data loader.  The dataset from step 1 will most likely fit in your RAM memory however, this is rarely the case for larger datasets. We want you to write a data loader that loads the batches "online" meaning that it only reads the data from the disc when it's part of a requested batch. For format 2 you'll get all the data in one file and you can consider indexing this data as reading from the disc.
